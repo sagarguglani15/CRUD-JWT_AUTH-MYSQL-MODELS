@@ -11,4 +11,4 @@ D => Delete 		(using delete request)
 JWT => JsonWebToken
 	it does not gets saved into session storage(as cookies) but, only get returned to the client from server.
 
-MySQL database used to store data on localhost
+MySQL database used to store data on localhost using ORM Models
